@@ -1,0 +1,22 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Logs and scratch files
+*.log
+npm-debug.log*
+pnpm-debug.log*
+.cache/
+tmp/
+
+# Node tooling (this package is plain JS and needs no build step, but a
+# checkout may still carry these)
+node_modules/
+
+# Local verification output. The verification scripts themselves
+# (_verify-balance.js, _probe-store.js, _verify-theme.js) live one level above
+# this package; keep this repo to the plugin alone.
+verify-out/

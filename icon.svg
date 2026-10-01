@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="Balance">
+  <rect x="3" y="7" width="26" height="18" rx="4.5" fill="none" stroke="#4D6BFE" stroke-width="2.4"/>
+  <path d="M9 7h11.6c1.9 0 3.1.9 3.6 2.2H9.7c-1.9 0-3.2.8-4.1 1.7" fill="none" stroke="#4D6BFE" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="22" cy="16" r="2.4" fill="#4D6BFE"/>
+</svg>

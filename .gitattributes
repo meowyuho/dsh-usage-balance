@@ -1,0 +1,16 @@
+# Store text as LF in the repository. Without this, a Windows checkout with
+# core.autocrlf=true materialises CRLF and every file then reports as modified
+# forever. Listed per extension so binary assets are never touched.
+* text=auto eol=lf
+*.js   text eol=lf
+*.json text eol=lf
+*.yml  text eol=lf
+*.md   text eol=lf
+*.svg  text eol=lf
+
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.webp binary
+*.gif  binary
+*.ico  binary

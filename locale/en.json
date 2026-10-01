@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Balance",
+    "description": "Shows the DeepSeek account balance in the sidebar footer, with a baseline and alert threshold you set yourself."
+  }
+}

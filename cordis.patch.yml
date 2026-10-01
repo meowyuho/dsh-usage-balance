@@ -1,0 +1,5 @@
+# Inserts this bundle's row into the active dsh profile.
+# The Host half is an empty decoration; the browser half renders the chip.
+- insert:
+    - id: usage-balance
+      name: '@local/dsh-usage-balance'
